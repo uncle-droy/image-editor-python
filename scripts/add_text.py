@@ -179,4 +179,4 @@ def text_add(image_path, undo_number, save_path):
     
     pygame.quit()
     return undo_number
-# text_add("girl.jpg", undo_number, save_path)
+
