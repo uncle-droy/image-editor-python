@@ -13,6 +13,7 @@ This is a lightweight and user-friendly image editing application built using Py
 - Adjust brightness, contrast, and saturation
 - Adjust hue and color
 - Add custom text or annotations to images
+- Blend a new image on top of the opened image
 - Undo functionality for edits
 - Intuitive graphical user interface (GUI)
 
