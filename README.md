@@ -16,6 +16,7 @@ This is a lightweight and user-friendly image editing application built using Py
 - Blend a new image on top of the opened image
 - Undo functionality for edits
 - Intuitive graphical user interface (GUI)
+- More coming soon...
 
 ## Requirements
 To run this project, ensure you have the following installed:
@@ -33,3 +34,15 @@ Attribution Requirement:
 When redistributing or modifying this project, you must credit the original author:
 
 Author: DAIWIK ROY
+
+## Contributing
+Contributions are welcome!
+Feel free to fork this repository, make improvements, and submit a pull request.
+
+## Support
+If you encounter any issues or have suggestions, please open an issue on GitHub or reach out at [uma.universetheory@gmail.com].
+
+
+---
+
+Enjoy editing your images and share what you make! 🎨✨
