@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pilgram
+pilgram2
+pillow
+customtkinter
+ctkcolorpicker
+wand
+rembg
+pygame
