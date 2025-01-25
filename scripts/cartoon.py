@@ -71,10 +71,3 @@ def cartoonify_image(image_path, undo_number, save_path):
     
     cv2.imwrite(save_path, cartoon)
     undo_number+=1
-# # Example usage
-# image_path = 'girl5.jpg'  # Replace with your image path
-# cartoon_image = cartoonify_image(image_path)
-# if cartoon_image is not None:
-#     display_image('Cartoonified Image', cartoon_image)
-# print(time.time())
-# print('Done in: ', time.time() - start_time)
