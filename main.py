@@ -351,22 +351,7 @@ def save_changes(image, message):
 
 # Image operations
 
-#Brightness
-# brightness = 1
-# def bright(value):
-#     
-#     if brightness_scale.get() == "":
-#         brightness = 1
-#     else:
-#         brightness = float(brightness_scale.get())
-#     print(brightness)
-#     filt = ImageEnhance.Brightness(img)
-#     img = filt.enhance(brightness)
-
-#     x, y = resize(img)
-#     display_image(img, x, y)
-#     save_undo_image()
-
+#Brightness
 def bright_up():
     global img, bright, undo_number
     filt = ImageEnhance.Brightness(img)
