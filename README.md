@@ -22,6 +22,8 @@ To run this project, ensure you have the following installed:
 - Python 3.8 or higher
 - Required Python libraries (install using the command below):
   pip install -r requirements.txt
+- All the assets, with the correct names and paths as can be seen in the 'assets' folder
+
   
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
