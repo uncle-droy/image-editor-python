@@ -10,11 +10,11 @@ This is a lightweight and user-friendly image editing application built using Py
 - Open and save images in various formats (JPEG, PNG, etc.)
 - Resize, crop, and rotate images
 - Apply basic filters like grayscale, sepia, and blur
-- Adjust brightness, contrast, and saturation
-- Adjust hue and color
+- Adjust brightness ☀️, contrast, and saturation
+- Adjust hue and color 🌈
 - Add custom text or annotations to images
-- Blend a new image on top of the opened image
-- Undo functionality for edits
+- Blend a new image on top of the opened image 🖼️
+- Undo ↩️ functionality for edits
 - Intuitive graphical user interface (GUI)
 - More coming soon...
 
@@ -30,7 +30,7 @@ To run this project, ensure you have the following installed:
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 See the LICENSE file for details.
 
-Attribution Requirement:
+⚠️ Attribution Requirement:
 When redistributing or modifying this project, you must credit the original author:
 
 Author: DAIWIK ROY
@@ -45,4 +45,4 @@ If you encounter any issues or have suggestions, please open an issue on GitHub 
 
 ---
 
-Enjoy editing your images and share what you make! 🎨✨
+Enjoy editing your images and share what you make! 🎨✨🖍️
