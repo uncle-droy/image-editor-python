@@ -219,6 +219,7 @@ def save_img(image):
     global img
     pdf_author = "Daiwik Roy"
     save_quality=ctk.CTkInputDialog(text="Enter a save quality (0-100)%", title='Save quality')
+    save_quality = int(save_quality.get_input())
     if save_quality>=0 and save_quality<=100:
         filepath = filedialog.asksaveasfilename(defaultextension=".jpg",
                                                 filetypes=[("JPG files", "*.jpg"), ("PNG files", "*.png"),
@@ -351,7 +352,8 @@ def save_changes(image, message):
 
 # Image operations
 
-#Brightness
+#Brightness
+
 def bright_up():
     global img, bright, undo_number
     filt = ImageEnhance.Brightness(img)
