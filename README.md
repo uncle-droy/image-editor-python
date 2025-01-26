@@ -8,9 +8,11 @@ This is a lightweight and user-friendly image editing application built using Py
 
 ## Features 🌟
 - Open 📂 and save 💾 images in various formats (JPEG, PNG, etc.)
+- Get image properties ℹ️ like size and dimensions
 - Resize, crop ✂️, and rotate 🔁 images
-- Apply filters 🎨 like grayscale, sepia, and blur
-- Adjust brightness ☀️, contrast, and saturation
+- Apply filters 🎨 like lofi, sepia, grayscale, etc.
+- Adjust brightness ☀️, contrast 🌗, blur 🌫️, or add details ✨
+- Add borders 🔲
 - Adjust hue and color 🌈
 - Add custom text 🔠 or annotations 🖋️ to images
 - Blend a new image on top of the opened image 🖼️
@@ -18,7 +20,7 @@ This is a lightweight and user-friendly image editing application built using Py
 - Intuitive graphical user interface (GUI) 🖥️
 - More coming soon...
 
-## Requirements 📋
+## Requirements 🧩
 To run this project, ensure you have the following installed:
 - Python 3.8 or higher
 - Required Python libraries (install using the command below):
