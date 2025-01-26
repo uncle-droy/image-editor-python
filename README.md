@@ -22,7 +22,7 @@ This is a lightweight and user-friendly image editing application built using Py
 
 ## Requirements 🧩
 To run this project, ensure you have the following installed:
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Required Python libraries (install using the command below):
   ```bash
   pip install -r requirements.txt
